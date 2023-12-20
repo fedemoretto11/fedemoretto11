@@ -3,7 +3,7 @@
 
 Soy un Licenciado en Comercio Exterior con experiencia en el sector del comercio internacional, pero actualmente estoy enfocado en mi nueva pasión: la programación. Comencé a estudiar programación como hobby y, en poco tiempo, me he convertido en un estudiante apasionado y dedicado en el aprendizaje de tecnologías de programación como React JS, Next.JS, Tailwind CSS, Java, entre otras.  
   
-Estudiande Desarrollo Full Stack en Egg que es parte del Argentina Programa 4.0 , estoy cursando el programa de Desarrollo de Apps en Coderhouse, y ademas en Marzo comienzo a estudiar Licenciatura en Informatica en la Universidad Siglo XXI.
+Estudie Desarrollo Full Stack en Egg que es parte del Argentina Programa 4.0 , estoy cursando el programa de Desarrollo de Apps en Coderhouse, y ademas en Marzo comienzo a estudiar Licenciatura en Informatica en la Universidad Siglo XXI.
   
 Estoy emocionado por las oportunidades que se presentan en el campo de la programación y estoy comprometido a seguir aprendiendo y mejorando mis habilidades.
 
