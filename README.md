@@ -1,11 +1,13 @@
 # Hello there, mi nombre es Federico Moretto 👋
 ### Freelancer FullStack Web y Apps
 
-Soy un Licenciado en Comercio Exterior con experiencia en el sector del comercio internacional, pero actualmente estoy enfocado en mi nueva pasión: la programación. Comencé a estudiar programación como hobby y, en poco tiempo, me he convertido en un estudiante apasionado y dedicado en el aprendizaje de tecnologías de programación como React JS, Next.JS, Tailwind CSS, Java, entre otras.  
-  
-Estudie Desarrollo Full Stack en Egg que es parte del Argentina Programa 4.0 , estoy cursando el programa de Desarrollo de Apps en Coderhouse, y ademas en Marzo comienzo a estudiar Licenciatura en Informatica en la Universidad Siglo XXI.
-  
-Estoy emocionado por las oportunidades que se presentan en el campo de la programación y estoy comprometido a seguir aprendiendo y mejorando mis habilidades.
+Soy Federico Moretto, un apasionado Desarrollador FrontEnd y estudiante de Licenciatura en Informática. Actualmente, me desempeño como desarrollador freelance y cuento con más de 3 años de experiencia en el comercio exterior, área en la que también obtuve una licenciatura.
+
+Con habilidades técnicas en HTML, CSS, JavaScript, TypeScripty frameworks como React.JS, Next.JS, y React Native, me destaco como desarrollador web especializado en crear experiencias de usuario fluidas y atractivas. Además, poseo experiencia en el diseño responsivo y la optimización del rendimiento web.
+
+Mi enfoque en el desarrollo FrontEnd se complementa con conocimientos en Java y Python para desarrollo de backend, lo que me convierte en un candidato versátil capaz de trabajar en proyectos Full Stack.
+
+Soy una persona creativa y orientada a resultados, siempre buscando nuevas formas de resolver problemas y mejorar la eficiencia. Me destaco como jugador de equipo y disfruto colaborar con otros para alcanzar objetivos comunes.
 
 ## Tecnologias
 
