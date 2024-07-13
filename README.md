@@ -18,7 +18,7 @@ Soy una persona creativa y orientada a resultados, siempre buscando nuevas forma
 
 | **Frontend** | **Backend** | **Other** |
 |--------------|-------------|-----------|
-|[![FrontEnd](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next&perline=4)](https://skillicons.dev) |[![BackEnd](https://skillicons.dev/icons?i=nodejs,java,python,spring&perline=4)](https://skillicons.dev)|[![Other](https://skillicons.dev/icons?i=vite,firebase,mongodb,mysql,sqlite,git,github&perline=4)](https://skillicons.dev) |
+|[![FrontEnd](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,next&perline=4)](https://skillicons.dev) |[![BackEnd](https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,python,spring&perline=4)](https://skillicons.dev)|[![Other](https://skillicons.dev/icons?i=vite,firebase,mongodb,mysql,sqlite,git,github&perline=4)](https://skillicons.dev) |
 
 ## Encuéntrame en:
 [![Instagram](https://img.shields.io/badge/Instagram-@fedemoretto11-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/fedemoretto11) [![Twitter](https://img.shields.io/badge/Twitter-@fedemoretto11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fedemoretto11)
