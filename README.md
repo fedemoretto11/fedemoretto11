@@ -1,13 +1,20 @@
 # Hello there, mi nombre es Federico Moretto 👋
 ### Freelancer FullStack Web y Apps
 
-Soy Federico Moretto, un apasionado Desarrollador FrontEnd y estudiante de Licenciatura en Informática. Actualmente, me desempeño como desarrollador freelance y cuento con más de 3 años de experiencia en el comercio exterior, área en la que también obtuve una licenciatura.
+¡Hola! Soy Federico Moretto, un desarrollador apasionado y profesional con experiencia en desarrollo de software y soporte técnico. Actualmente, trabajo en Asince SRL como Technical Support, donde mis principales responsabilidades incluyen:
 
-Con habilidades técnicas en HTML, CSS, JavaScript, TypeScripty frameworks como React.JS, Next.JS, y React Native, me destaco como desarrollador web especializado en crear experiencias de usuario fluidas y atractivas. Además, poseo experiencia en el diseño responsivo y la optimización del rendimiento web.
+-Lectura, análisis y resolución de tickets de error.
+-Implementación de hotfixes para garantizar la estabilidad del sistema.
+-Desarrollo de nuevas funcionalidades y mejoras en aplicaciones.
+-Monitoreo y gestión del estado de servidores y bases de datos.
 
-Mi enfoque en el desarrollo FrontEnd se complementa con conocimientos en Java y Python para desarrollo de backend, lo que me convierte en un candidato versátil capaz de trabajar en proyectos Full Stack.
+Cuento con habilidades técnicas en C#.NET, Vue.js, TypeScript, Oracle PL/SQL y Azure, las cuales también aplico en proyectos personales en mi tiempo libre, explorando soluciones innovadoras y prácticas para desafíos reales.
 
-Soy una persona creativa y orientada a resultados, siempre buscando nuevas formas de resolver problemas y mejorar la eficiencia. Me destaco como jugador de equipo y disfruto colaborar con otros para alcanzar objetivos comunes.
+Además, poseo una sólida experiencia en comercio exterior, con más de 3 años en el sector, y una licenciatura que complementa mi enfoque metódico y estructurado en el desarrollo de software.
+
+Me apasiona trabajar en equipo, resolver problemas complejos y contribuir al desarrollo de sistemas robustos y de alto impacto. Busco constantemente aprender y crecer en el ámbito tecnológico, incluyendo áreas como inteligencia artificial y nuevas tecnologías.
+
+Estoy abierto a conectar con otros profesionales, compartir conocimientos y explorar nuevas oportunidades que me permitan seguir desarrollándome tanto personal como profesionalmente.
 
 ## Tecnologias
 <!--
