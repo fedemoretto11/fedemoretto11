@@ -4,9 +4,13 @@
 ¡Hola! Soy Federico Moretto, un desarrollador apasionado y profesional con experiencia en desarrollo de software y soporte técnico. Actualmente, trabajo en Asince SRL como Technical Support, donde mis principales responsabilidades incluyen:
 
 -Lectura, análisis y resolución de tickets de error.
+
 -Implementación de hotfixes para garantizar la estabilidad del sistema.
+
 -Desarrollo de nuevas funcionalidades y mejoras en aplicaciones.
+
 -Monitoreo y gestión del estado de servidores y bases de datos.
+
 
 Cuento con habilidades técnicas en C#.NET, Vue.js, TypeScript, Oracle PL/SQL y Azure, las cuales también aplico en proyectos personales en mi tiempo libre, explorando soluciones innovadoras y prácticas para desafíos reales.
 
